@@ -1,0 +1,48 @@
+body{
+    background-color: #ffff; 
+}
+
+.home{
+    font-size: 25px;
+}
+   
+
+.text {
+    font-size: 19px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.wins {
+    color: black;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+
+}
+
+.curiosidade {
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.qatar {
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+.why{
+    text-align: center;
+    color: rgb(7, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.autoral{
+    font-size: 16px;
+   
+}
